@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, I'm Diogo Ramos
 
-<!--
-**diogoramos-dev/diogoramos-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Salesforce Developer and Architect with 8+ years of experience designing and building scalable solutions on the Salesforce platform.
 
-Here are some ideas to get you started:
+I work with:
+- Apex
+- Lightning Web Components and Aura
+- Flows, Process Automation, and Declarative Tools
+- Salesforce DX, Metadata API, Git, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+23x Salesforce Certified
+Trailhead All-Star Ranger
+
+I enjoy writing about what I’m learning — check out my blog: [diogoramos-dev.github.io/blog.html](https://diogoramos-dev.github.io/blog.html)
