@@ -11,4 +11,4 @@ I work with:
 23x Salesforce Certified
 Trailhead All-Star Ranger
 
-I enjoy writing about what I’m learning — check out my blog: [diogoramos-dev.github.io/blog.html](https://diogoramos-dev.github.io/blog.html)
+I enjoy writing about what I’m learning. Check out my blog: [diogoramos-dev.github.io/blog.html](https://diogoramos-dev.github.io/blog.html)
