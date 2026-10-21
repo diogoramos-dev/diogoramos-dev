@@ -8,7 +8,7 @@ I work with:
 - Flows, Process Automation, and Declarative Tools
 - Salesforce DX, Metadata API, Git, CI/CD
 
-23x Salesforce Certified
+25x Salesforce Certified
 Trailhead All-Star Ranger
 
 I enjoy writing about what I’m learning. Check out my blog: [diogoramos-dev.github.io/blog.html](https://diogoramos-dev.github.io/blog.html)
